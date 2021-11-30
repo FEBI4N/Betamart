@@ -1,0 +1,11 @@
+D:\Sekul\BetaMartProjek\BetaMartProjek\obj\Debug\BetaMartProjek.csprojAssemblyReference.cache
+D:\Sekul\BetaMartProjek\BetaMartProjek\obj\Debug\BetaMartProjek.Form1.resources
+D:\Sekul\BetaMartProjek\BetaMartProjek\obj\Debug\BetaMartProjek.Properties.Resources.resources
+D:\Sekul\BetaMartProjek\BetaMartProjek\obj\Debug\BetaMartProjek.csproj.GenerateResource.cache
+D:\Sekul\BetaMartProjek\BetaMartProjek\obj\Debug\BetaMartProjek.csproj.CoreCompileInputs.cache
+D:\Sekul\BetaMartProjek\BetaMartProjek\bin\Debug\BetaMartProjek.exe.config
+D:\Sekul\BetaMartProjek\BetaMartProjek\bin\Debug\BetaMartProjek.exe
+D:\Sekul\BetaMartProjek\BetaMartProjek\bin\Debug\BetaMartProjek.pdb
+D:\Sekul\BetaMartProjek\BetaMartProjek\obj\Debug\BetaMartProjek.exe
+D:\Sekul\BetaMartProjek\BetaMartProjek\obj\Debug\BetaMartProjek.pdb
+D:\Sekul\BetaMartProjek\BetaMartProjek\bin\Debug\Ukk.accdb
